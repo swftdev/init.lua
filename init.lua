@@ -1,0 +1,2 @@
+require("swft")
+print("hello")
